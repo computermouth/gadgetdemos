@@ -1,0 +1,17 @@
+spec: "0.0"
+name: cio
+uuid: 47dfbf27-62f4-40ca-b9cc-c649251d8eff
+type: docker
+onboot:
+- name: cio
+  uuid: a9bd554c-d34a-405e-b6fd-2e242f809adf
+  image: 
+  directory: "./"
+  net: ""
+  pid: ""
+  readonly: false
+  command: []
+  binds: []
+  capabilities: []
+  devices: []
+services: []
